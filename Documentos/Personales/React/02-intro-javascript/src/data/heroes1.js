@@ -1,4 +1,6 @@
-const heroes = [
+// Se deseo que un contenido sea exportable, se requiere agregar "export" para indicarlo
+
+export const heroes = [
     {
         id: 1,
         name: 'Batman',
